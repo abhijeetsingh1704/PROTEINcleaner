@@ -7,7 +7,9 @@ usage: PROTEINcleaner [-h] -i INPUT [-f INPUT_FORMAT] [-o OUTPUT]
 
 Cleans invalid bases/residues in PROTEIN sequence file i.e., replaces invalid bases with Xs
 
-Citation: Singh, Abhijeet. PROTEINcleaner: a python utility to clean PROTEIN sequences and headers. ResearchGate 2022, http://dx.doi.org/10.13140/RG.2.2.11468.49283, Available at GitHub: https://github.com/abhijeetsingh1704/PROTEINcleaner
+Citation: Singh, Abhijeet. PROTEINcleaner: a python utility to clean PROTEIN sequences and headers. 
+ResearchGate 2022, http://dx.doi.org/10.13140/RG.2.2.11468.49283, 
+Available at GitHub: https://github.com/abhijeetsingh1704/PROTEINcleaner
 
 required arguments:
   -i INPUT, --input INPUT
